@@ -1,5 +1,7 @@
 Kitchen_Timer
+
 Written by: Jonathan Ortiz
+
 Sample Code provided by: Luca de Alfaro
 
 A simple kitchen timer written with Android Studio.
